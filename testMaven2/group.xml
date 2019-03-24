@@ -1,0 +1,13 @@
+<Group>
+    <name/>
+    <users>
+        <users>
+            <name>Alex</name>
+            <age>20</age>
+        </users>
+        <users>
+            <name>Vova</name>
+            <age>25</age>
+        </users>
+    </users>
+</Group>
